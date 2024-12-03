@@ -13,6 +13,7 @@
 Большинство из них были, к сожалению, приватные, такие как датасеты (на 400 тыс. изображений) СПбГУ, поэтому я решил искать их на [kaggle] (https://www.kaggle.com/). Я нашел два размеченных датасета с достаточно хорошими картинками:
   1. https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset (>15k файлов, список эмоций - Ahegao, Angry, Happy, Sad, Neutral, Surprise)
   2. https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition (152 изображения, список эмоций - Angry, Contempt, Disgust, Fear, Happy, Neutral, Sad, Surprised)
+
 Замечание 1: Из датасета 1, удалим эмоцию Ahegao, как минимум в силу школьной политики.
 Замечание 2: Эмоции Contempt, Disgust имеет очень маленькую выборку изображений. Стоит подумать, стоит ли вообще их оставлять, если да, то нужно сделать хорошую аугментацию.
 
