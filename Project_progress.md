@@ -34,4 +34,6 @@
 
 {'Anger.jpg': 0, 'Contempt.jpg': 1, 'Disgust.jpg': 2, 'Fear.jpg': 3, 'Happy.jpg': 4, 'Neutral.jpg': 5, 'Sad.jpg': 6, 'Surprised.jpg': 7}.
 
+
+
 Приложенные картинки имеют достаточно хорошее качество, однако могут иметь различный размер.
