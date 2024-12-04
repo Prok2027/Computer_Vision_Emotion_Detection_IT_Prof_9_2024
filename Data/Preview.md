@@ -10,7 +10,7 @@
   - [Dataset_1](https://github.com/Prok2027/Computer_Vision_Emotion_Detection_IT_Prof_9_2024/blob/main/Data/dataset_1_no_augmentation.xlsx)
   - [Dataset_2](https://github.com/Prok2027/Computer_Vision_Emotion_Detection_IT_Prof_9_2024/blob/main/Data/dataset_2_no_augmentation.xlsx)
 
-Сделать аугментацию с имеющимися датасетами, собрать их в один - [Data_augmentation](https://github.com/Prok2027/Computer_Vision_Emotion_Detection_IT_Prof_9_2024/blob/main/Data/Data_augmentation.ipynb)
+Сделать аугментацию с имеющимися датасетами, собрать их в один - [Data_augmentation](https://github.com/Prok2027/Computer_Vision_Emotion_Detection_IT_Prof_9_2024/blob/main/Data/Data_augmentation%20(1).ipynb)
 
 Получившийся итоговый датасет:
-  - [Dataset](https://github.com/Prok2027/Computer_Vision_Emotion_Detection_IT_Prof_9_2024/blob/main/Data/dataset.xlsx)
+  - [Dataset_final](https://github.com/Prok2027/Computer_Vision_Emotion_Detection_IT_Prof_9_2024/blob/main/Data/dataset_final.xlsx)
